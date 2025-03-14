@@ -1,4 +1,6 @@
-# React + Vite
+# Kyle Horn Midterm Project for INF655 VA S2025
+
+# I also provided an Output.png- Shows my finished project
 
 
 
