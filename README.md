@@ -1,6 +1,6 @@
 # Kyle Horn Midterm Project for INF655 VA S2025
 
-# I also provided an Output.png- Shows my finished project
+# I also provided an Output1.png- Shows my finished project
 
 
 
